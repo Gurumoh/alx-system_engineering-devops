@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -al . .. case 
-/boot
+ls -al . .. /boot
